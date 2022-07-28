@@ -1,4 +1,18 @@
-### Hi there 👋
+<div align="center" width="50">
+    <h2>Hello</h2>
+</div>
+
+<div align="center" width="50">
+    <img src="images/banner.gif">
+</div>
+
+<br>
+<div align="center" width="50">
+    <p>Don't forget to smile 😊</p>
+    <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card" />
+</div>
+
+
 
 <!--
 **egecetin/egecetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
