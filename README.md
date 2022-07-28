@@ -17,7 +17,7 @@
 ---
 <div align="center" width="50">
 <a href="https://www.linkedin.com/in/egecetin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/egecetin" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/egecettinn" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/rrms1?si=7814dc2504144dc0" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://egecetin.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-241F31.svg?&style=flat-square&logo=gnometerminal&logoColor=white" alt="Website"></a>
 </div>
