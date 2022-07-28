@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" width="50">
-    <img src="images/banner.gif">
+    <img src="https://github.com/egecetin/egecetin/blob/ed91e54e99a63bad395e74f82b1c3700d0a377d0/images/banner.gif">
 </div>
 
 <br>
