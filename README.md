@@ -12,12 +12,10 @@
 <div align="center" width="50">
 <h3>Take a look at my past works</h3>
 <br>
-<ul style="list-style-type:none">
-    <li>A software-based approach in real-time to eliminating environmental shaking effects from videos with colored video enhancement <a href="https://github.com/egecetin/VideoStabilization" target="_blank"><img src="https://img.shields.io/badge/Video Stabilization-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" style="margin-bottom:-5px" alt="Video Stabilization"></a></li>
-    <li>Contributions to a powerful network packet processing library <a href="https://github.com/egecetin/PcapPlusPlus/commits?author=egecetin" target="_blank"><img src="https://img.shields.io/badge/PcapPlusPlus-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" style="margin-bottom:-5px" alt="PcapPlusPlus Commits"></a></li>
-    <li>CMake template to create new C++ applications with basic codes/interfaces (logging, crash reporting, telnet, zmq) are already defined <a href="https://github.com/egecetin/Repo-Init" target="_blank"><img src="https://img.shields.io/badge/Repo Initializer-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" style="margin-bottom:-5px" alt="Repo Initializer"></a></li>
-    <li>Data logger for academic research written on MATLAB <a href="https://github.com/egecetin/NI_Recorder" target="_blank"><img src="https://img.shields.io/badge/NI Recorder-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" style="margin-bottom:-5px" alt="NI Recorder"></a></li>
-</ul>
+    <p>A software-based approach in real-time to eliminating environmental shaking effects from videos with colored video enhancement <a href="https://github.com/egecetin/VideoStabilization" target="_blank"><img src="https://img.shields.io/badge/Video Stabilization-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" style="margin-bottom:-5px" alt="Video Stabilization"></a></p>
+    <p>Contributions to a powerful network packet processing library <a href="https://github.com/egecetin/PcapPlusPlus/commits?author=egecetin" target="_blank"><img src="https://img.shields.io/badge/PcapPlusPlus-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" style="margin-bottom:-5px" alt="PcapPlusPlus Commits"></a></p>
+    <p>CMake template to create new C++ applications with basic codes/interfaces (logging, crash reporting, telnet, zmq) are already defined <a href="https://github.com/egecetin/Repo-Init" target="_blank"><img src="https://img.shields.io/badge/Repo Initializer-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" style="margin-bottom:-5px" alt="Repo Initializer"></a></p>
+    <p>Data logger for academic research written on MATLAB <a href="https://github.com/egecetin/NI_Recorder" target="_blank"><img src="https://img.shields.io/badge/NI Recorder-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" style="margin-bottom:-5px" alt="NI Recorder"></a></p>
 </div>
 
 <br>
