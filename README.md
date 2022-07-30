@@ -12,10 +12,10 @@
 
 <div width="50">
 <ul>
-    <li>A software-based approach in real-time to eliminating environmental effects from videos with colored video enhancement <a href="https://github.com/egecetin/VideoStabilization" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=12px alt="Video Stabilization"></a></li>
-    <li>Contributions to a powerfli network packet processing library <a href="https://github.com/egecetin/PcapPlusPlus/commits?author=egecetin" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=12px alt="PcapPlusPlus Commits"></a></li>
-    <li>CMake template to create new C++ applications with basic codes/interfaces (logging, crash reporting, telnet, zmq) are already defined <a href="https://github.com/egecetin/Repo-Init" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=12px alt="Repo Initializer"></a></li>
-    <li>Data logger for academic research written on MATLAB <a href="https://github.com/egecetin/NI_Recorder" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=12px alt="NI Recorder"></a></li>
+    <li>A software-based approach in real-time to eliminating environmental effects from videos with colored video enhancement <a href="https://github.com/egecetin/VideoStabilization" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=13px alt="Video Stabilization"></a></li>
+    <li>Contributions to a powerfli network packet processing library <a href="https://github.com/egecetin/PcapPlusPlus/commits?author=egecetin" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=13px alt="PcapPlusPlus Commits"></a></li>
+    <li>CMake template to create new C++ applications with basic codes/interfaces (logging, crash reporting, telnet, zmq) are already defined <a href="https://github.com/egecetin/Repo-Init" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=13px alt="Repo Initializer"></a></li>
+    <li>Data logger for academic research written on MATLAB <a href="https://github.com/egecetin/NI_Recorder" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=13px alt="NI Recorder"></a></li>
 </ul>
 </div>
 
@@ -30,4 +30,5 @@
 <a href="https://www.instagram.com/egecettinn" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/rrms1?si=7814dc2504144dc0" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://egecetin.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-%23241f31.svg?&style=flat-square&logo=gnometerminal&logoColor=white" alt="Website"></a>
+<a href="https://scholar.google.com/citations?user=gguqPLQAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Scholar-%234285f4.svg?&style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"></a>
 </div>
