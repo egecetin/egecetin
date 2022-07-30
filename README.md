@@ -5,7 +5,7 @@
 <div align="center" width="50">
 <p>You can browse my past works here</p>
 
-[![egecetin's GitHub stats](https://github-readme-stats.vercel.app/api?username=egecetin&theme=github_dark&count_private=true&show_icons=true)](https://github.com/egecetin/github-readme-stats)
+[![egecetin's GitHub stats](https://github-readme-stats.vercel.app/api?username=egecetin&theme=github_dark&count_private=true&show_icons=true&border_color=2e343b)](https://github.com/egecetin/github-readme-stats)
 ![egecetin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egecetin&theme=github_dark)
 <p>Feel free to contact for anything and to look up the sky, because <i>the only ones who fly are the ones who dare to fly</i>.</p>
 </div>
@@ -21,7 +21,7 @@
 
 <div align="center" width="50">
 <p><small><i>Don't forget to smile</i> 😊</small></p>
-<img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%230d1117&qColor=%2358a6ff&aColor=%23c3d1d9&codeColor=%231f6feb" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%230d1117&qColor=%2358a6ff&aColor=%23c3d1d9&codeColor=%231f6feb&textColor=%23c3d1d9&borderColor=%232e343b" alt="Jokes Card" />
 </div>
 
 ---
