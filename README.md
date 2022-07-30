@@ -12,10 +12,10 @@
 
 <div width="50">
 <ul>
-    <li>A software-based approach in real-time to eliminating environmental effects from videos with colored video enhancement <a href="https://github.com/egecetin/VideoStabilization" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=awesomelists&logoColor=white" height=12px alt="Video Stabilization"></a></li>
-    <li>Contributions to a powerfli network packet processing library <a href="https://github.com/egecetin/PcapPlusPlus/commits?author=egecetin" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=awesomelists&logoColor=white" height=12px alt="PcapPlusPlus Commits"></a></li>
-    <li>CMake template to create new C++ applications with basic codes/interfaces (logging, crash reporting, telnet, zmq) are already defined <a href="https://github.com/egecetin/Repo-Init" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=awesomelists&logoColor=white" height=12px alt="Repo Initializer"></a></li>
-    <li>Data logger for academic research written on MATLAB <a href="https://github.com/egecetin/NI_Recorder" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=awesomelists&logoColor=white" height=12px alt="NI Recorder"></a></li>
+    <li>A software-based approach in real-time to eliminating environmental effects from videos with colored video enhancement <a href="https://github.com/egecetin/VideoStabilization" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=12px alt="Video Stabilization"></a></li>
+    <li>Contributions to a powerfli network packet processing library <a href="https://github.com/egecetin/PcapPlusPlus/commits?author=egecetin" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=12px alt="PcapPlusPlus Commits"></a></li>
+    <li>CMake template to create new C++ applications with basic codes/interfaces (logging, crash reporting, telnet, zmq) are already defined <a href="https://github.com/egecetin/Repo-Init" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=12px alt="Repo Initializer"></a></li>
+    <li>Data logger for academic research written on MATLAB <a href="https://github.com/egecetin/NI_Recorder" target="_blank"><img src="https://img.shields.io/badge/-%23241f31.svg?&style=flat-square&logo=lgtm&logoColor=white" height=12px alt="NI Recorder"></a></li>
 </ul>
 </div>
 
