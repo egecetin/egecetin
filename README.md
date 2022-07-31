@@ -5,7 +5,7 @@
 <div align="center" width="50">
 <p>Feel free to contact for anything and to look up the sky, because <i>the only ones who fly are the ones who dare to fly</i>.</p>
 
-[![egecetin's GitHub stats](https://github-readme-stats.vercel.app/api?username=egecetin&theme=github_dark&count_private=true&show_icons=true&border_color=2e343b)](https://github.com/egecetin/github-readme-stats)
+![egecetin's GitHub stats](https://github-readme-stats.vercel.app/api?username=egecetin&theme=github_dark&count_private=true&show_icons=true&border_color=2e343b)
 ![egecetin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egecetin&theme=github_dark)
 </div>
 
