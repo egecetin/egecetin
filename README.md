@@ -18,6 +18,12 @@
     <p>Data logger for an academic research written on MATLAB<br> <a href="https://github.com/egecetin/NI_Recorder" target="_blank"><img src="https://img.shields.io/badge/NI Recorder-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" alt="NI Recorder"></a></p>
 </div>
 
+<div align="center" width="50">
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=egecetin&theme=darkhub&column=5&row=1)]()
+</div>
+
 <br>
 <div align="center" width="50">
 <p><small><i>and don't forget to smile</i> 😊</small></p>
