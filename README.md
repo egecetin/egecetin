@@ -1,11 +1,9 @@
 <div align="center" width="50">
     <h2><i>Wellcome</i></h2>
 </div>
-
 <div align="center" width="50">
     <p>Feel free to contact for anything and to look up the sky, because <i>the only ones who fly are the ones who dare to fly</i>.</p>
 </div>
-
 <div align="center" width="50">
     <br>
     <h3>Take a look at my past works</h3>
@@ -15,18 +13,15 @@
     <p>Kaleidoscope effect library for real-time applications<br> <a href="https://github.com/egecetin/kaleidoscope" target="_blank"><img src=https://img.shields.io/badge/Kaleidoscope-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white alt="Kaleidoscope Library"></a></p>
     <p>Data logger for an academic research written on MATLAB<br> <a href="https://github.com/egecetin/NI_Recorder" target="_blank"><img src="https://img.shields.io/badge/NI Recorder-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" alt="NI Recorder"></a></p>
 </div>
-
 <div align="center" width="50">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=egecetin&theme=darkhub&column=5&row=1)]()
 </div>
-
 <br>
 <div align="center" width="50">
 <p><small><i>and don't forget to smile</i> 😊</small></p>
 <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%230d1117&qColor=%2358a6ff&aColor=%23c3d1d9&codeColor=%231f6feb&textColor=%23c3d1d9&borderColor=%232e343b" alt="Jokes Card" />
 </div>
-
 ---
 <div align="center" width="50">
     <a href="https://www.linkedin.com/in/egecetin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
