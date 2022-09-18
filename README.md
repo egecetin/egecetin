@@ -4,17 +4,16 @@
 
 <div align="center" width="50">
 <p>Feel free to contact for anything and to look up the sky, because <i>the only ones who fly are the ones who dare to fly</i>.</p>
-
-![egecetin's GitHub stats](https://github-readme-stats.vercel.app/api?username=egecetin&theme=github_dark&count_private=true&show_icons=true&border_color=2e343b)
-![egecetin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egecetin&theme=github_dark)
 </div>
 
 <div align="center" width="50">
+<br>
 <h3>Take a look at my past works</h3>
 <br>
     <p>A software-based approach in real-time for eliminating environmental shaking effects from videos with colored video enhancement<br> <a href="https://github.com/egecetin/VideoStabilization" target="_blank"><img src="https://img.shields.io/badge/Video Stabilization-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" alt="Video Stabilization"></a></p>
     <p>Contributions to a powerful network packet processing library<br> <a href="https://github.com/seladb/PcapPlusPlus/commits?author=egecetin" target="_blank"><img src="https://img.shields.io/badge/PcapPlusPlus-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" alt="PcapPlusPlus Commits"></a></p>
     <p>CMake template to create new C++ applications with basic codes/interfaces (logging, telnet, zmq) are already defined<br> <a href="https://github.com/egecetin/Repo-Init" target="_blank"><img src="https://img.shields.io/badge/Repo Initializer-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" alt="Repo Initializer"></a></p>
+    <p>Kaleidoscope effect library for real-time applications<br> <a href="https://github.com/egecetin/kaleidoscope" target="_blank"><img src=https://img.shields.io/badge/Kaleidoscope-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white alt="Kaleidoscope Library"></a></p>
     <p>Data logger for an academic research written on MATLAB<br> <a href="https://github.com/egecetin/NI_Recorder" target="_blank"><img src="https://img.shields.io/badge/NI Recorder-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" alt="NI Recorder"></a></p>
 </div>
 
