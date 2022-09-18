@@ -5,7 +5,6 @@
     <p>Feel free to contact for anything and to look up the sky, because <i>the only ones who fly are the ones who dare to fly</i>.</p>
 </div>
 <div align="center" width="50">
-    <br>
     <h3>Take a look at my past works</h3>
     <p>A software-based approach in real-time for eliminating environmental shaking effects from videos with colored video enhancement<br> <a href="https://github.com/egecetin/VideoStabilization" target="_blank"><img src="https://img.shields.io/badge/Video Stabilization-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" alt="Video Stabilization"></a></p>
     <p>Contributions to a powerful network packet processing library<br> <a href="https://github.com/seladb/PcapPlusPlus/commits?author=egecetin" target="_blank"><img src="https://img.shields.io/badge/PcapPlusPlus-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" alt="PcapPlusPlus Commits"></a></p>
@@ -22,6 +21,7 @@
 <p><small><i>and don't forget to smile</i> 😊</small></p>
 <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%230d1117&qColor=%2358a6ff&aColor=%23c3d1d9&codeColor=%231f6feb&textColor=%23c3d1d9&borderColor=%232e343b" alt="Jokes Card" />
 </div>
+
 ---
 <div align="center" width="50">
     <a href="https://www.linkedin.com/in/egecetin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
