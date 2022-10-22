@@ -11,11 +11,6 @@
     <p>CMake template to create new C++ applications with basic codes/interfaces (logging, telnet, zmq) are already defined<br> <a href="https://github.com/egecetin/Repo-Init" target="_blank"><img src="https://img.shields.io/badge/Repo Initializer-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white" alt="Repo Initializer"></a></p>
     <p>Kaleidoscope effect library for real-time applications<br> <a href="https://github.com/egecetin/kaleidoscope" target="_blank"><img src=https://img.shields.io/badge/Kaleidoscope-%23241f31.svg?&style=flat-square&logo=spreadshirt&logoColor=white alt="Kaleidoscope Library"></a></p>
 </div>
-<br>
-<div align="center" width="50">
-<p><small><i>and don't forget to smile</i> 😊</small></p>
-<img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%230d1117&qColor=%2358a6ff&aColor=%23c3d1d9&codeColor=%231f6feb&textColor=%23c3d1d9&borderColor=%232e343b" alt="Jokes Card" />
-</div>
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/egecetin/egecetin/raw/main/silhouette-white.png"/>
