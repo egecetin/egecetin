@@ -14,7 +14,7 @@
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/egecetin/egecetin/raw/main/silhouette-white.png"/>
-<img src="https://github.com/egecetin/egecetin/raw/main/silhouette-black.png" alt="" width="800"/>
+<img src="https://github.com/egecetin/egecetin/raw/main/silhouette-black.png" alt="" width="650"/>
 </picture>
 </div>
 
