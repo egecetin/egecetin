@@ -2,13 +2,13 @@
 
 # 👋 Welcome to My Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+![Typing SVG](./profile/headline.svg)
 
 > *"The only ones who fly are the ones who dare to fly"*
 
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/egecetin/egecetin/raw/main/silhouette-white.png"/>
-<img src="https://github.com/egecetin/egecetin/raw/main/silhouette-black.png" alt="Profile Silhouette" width="650"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./silhouette-white.png"/>
+<img src="./silhouette-black.png" alt="Profile Silhouette" width="650"/>
 </picture>
 </div>
 
