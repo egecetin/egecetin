@@ -70,12 +70,11 @@
 <div align="center">
 
 ![Stats](./profile/stats.svg)
+<br>
+
 ![Top Languages](./profile/top-langs.svg)
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=egecetin&theme=tokyonight&mode=weekly" alt="GitHub Streak"/>
-</div>
 
 ---
 
