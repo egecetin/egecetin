@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ege &#199;etin&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 38, Total Commits  : 1528, Total PRs: 368, Total Issues: 5, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 38, Total Commits  : 1534, Total PRs: 374, Total Issues: 5, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.75126973352992;
+        stroke-dashoffset: 88.66046163624142;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >368</text>
+      >374</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
